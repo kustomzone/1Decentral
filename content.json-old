@@ -1,0 +1,50 @@
+{
+ "address": "1DECENTfv3wS5Ck3sbWJgThK8DW71DZMSN",
+ "description": "ID Blockchains",
+ "files": {
+  "index.html": {
+   "sha512": "4102296736819ce7b3bb49a0f6af1e1f3b98cdde3b651b539fcd21cd7e23b9db",
+   "size": 3598
+  },
+  "js/ZeroTodos.coffee": {
+   "sha512": "f5a278b1174fe95275681d9c3775182701b5ca254e3ab4e4f16c03a26c747c14",
+   "size": 10724
+  },
+  "js/all.js": {
+   "sha512": "c82ab7ac537db283c9b7c056f8da9054f71eb23aa2413c2ecaed7c8552670d16",
+   "size": 89729
+  },
+  "js/lib/ZeroFrame.coffee": {
+   "sha512": "89e705e90fb71e61e4db01ea8c215119671df83e4c9e8b5996ba69d28a6dabcf",
+   "size": 1335
+  },
+  "js/lib/vue.min.js": {
+   "sha512": "c08f2993e74bc4ed61e1856df27d1b36bf772356a21c325d601971b1b3af263e",
+   "size": 73099
+  },
+  "style.css": {
+   "sha512": "c1813004604fae55bac0d717fedc681fdd3f12fc1bf0c9e6b10b73bcbd216b93",
+   "size": 3970
+  }
+ },
+ "ignore": ".git|data/.*",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "modified": 1469253917.471,
+ "sign": [
+  11903311884459610727508383363699622880620341355442261924609535294452447776095,
+  103005343918491097045885390259354116704239824288248835102272091383239151617311
+ ],
+ "signers_sign": "GyS7XgXKI9v04ikMNvM3JZYs6MqnUrc4M9WhozDSezayBXDppNDx1G0WVBWYUic2E8hZ/rOJVf4zQz8tA7H2/94=",
+ "signs": {
+  "1DECENTfv3wS5Ck3sbWJgThK8DW71DZMSN": "HI8lGSfSFLCB8DEFajwBlE/A0rfN2q1bciysWR0M7kMC73BQYA6He+Afc65HD3rWrE+RrB8iept3XzR/q54VY2g="
+ },
+ "signs_required": 1,
+ "title": "1Decentral",
+ "zeronet_version": "0.3.7"
+}
